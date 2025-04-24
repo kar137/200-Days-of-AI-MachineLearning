@@ -1,6 +1,0 @@
-[submodule "Investigate-Netflix-Movies"]
-	path = Investigate-Netflix-Movies
-	url = https://github.com/kar137/Investigating-Netflix-Movies.git
-[submodule "Day02/Investigate-Netflix-Movies"]
-	path = Day02/Investigate-Netflix-Movies
-	url = https://github.com/kar137/Investigating-Netflix-Movies.git
