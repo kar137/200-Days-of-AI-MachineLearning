@@ -11,12 +11,4 @@
 <img src="https://github.com/user-attachments/assets/a7303fc3-76ce-45e3-a3ad-cbd184795841" alt="Image 6" width="530"/>
 <br>
 <img src="https://github.com/user-attachments/assets/be0f7659-5bd5-4754-b11a-5b285f62350e" alt="Image 7" width="530"/>
-<br>
-
-
-![Image]()
-![Image]()
-![Image]()
-![Image]()
-![Image]()
-![Image]()
+<br>`
