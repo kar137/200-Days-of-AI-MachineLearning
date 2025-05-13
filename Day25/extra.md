@@ -1,0 +1,2 @@
+## I also watched to build a notebook project by watching a youtube video from code with harry about fastAPI + mongodb integration.
+- Here's the link to the youtube video: https://www.youtube.com/watch?v=52c7Kxp_14E
