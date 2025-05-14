@@ -1,3 +1,9 @@
 [submodule "Day02/Investigate-Netflix-Movies"]
 	path = Day02/Investigate-Netflix-Movies
 	url = https://github.com/kar137/Investigating-Netflix-Movies.git
+[submodule "Day25/project"]
+	path = Day25/project
+	url = https://github.com/kar137/Resume-Analyzer-FastAPI.git
+[submodule "Day26/project"]
+	path = Day26/project
+	url = https://github.com/kar137/Resume-Analyzer-FastAPI.git
