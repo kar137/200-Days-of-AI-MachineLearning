@@ -10,3 +10,6 @@
 [submodule "Day27/projects"]
 	path = Day27/projects
 	url = https://github.com/kar137/Resume-Analyzer-FastAPI.git
+[submodule "Day28/projects"]
+	path = Day28/projects
+	url = https://github.com/kar137/Resume-Analyzer-FastAPI.git
